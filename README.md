@@ -1,3 +1,3 @@
 # studious-barnacle
-### We rampage through the world.
-### AT&T VR Hackathon Project
+We rampage through the world. <br>
+AT&T VR Hackathon Project
